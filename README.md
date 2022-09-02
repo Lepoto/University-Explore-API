@@ -1,12 +1,20 @@
 # final-project
-Run the server on port 8001
->> python manage.py runserver 8001
-# Install
+# Tech used
+1. Django
+2. Django Restframework
+
+# How to run the server
+```
+python manage.py runserver 8001
+```
+# Dependencies
+```
 python 3.10.4, 
 django 4.1, 
 djangorestframework, 
 django-cors-headers, 
-pillow, 
+pillow
+```
 
 # EndPoints
 # GET Bursaries
