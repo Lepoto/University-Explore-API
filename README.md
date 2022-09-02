@@ -1,7 +1,8 @@
 # final-project
 # Tech used
-1. Django
-2. Django Restframework
+1. Python
+2. Django
+3. Django Restframework
 
 # How to run the server
 ```
